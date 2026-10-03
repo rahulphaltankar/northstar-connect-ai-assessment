@@ -1,6 +1,7 @@
 # Northstar Connect AI Assessment
 
-**Author:** Rahul Phaltankar
+**Student:** Rahul Phaltankar  
+**Student ID:** provided in the official submission copy
 
 An end-to-end machine-learning project on a synthetic UK telecom dataset: revenue prediction, churn modelling, retention-campaign economics and customer segmentation. It was developed as part of the Northstar Connect AI Assessment (a course assessment covering Sessions 1–10). It is a learning project, not production work.
 
