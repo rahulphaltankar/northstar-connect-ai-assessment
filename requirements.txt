@@ -1,0 +1,11 @@
+# Optional flexible dependency list.
+# The official classroom installation uses requirements-classroom.txt.
+# Use this file only if your instructor explicitly permits newer compatible versions.
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
+notebook

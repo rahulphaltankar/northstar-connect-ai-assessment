@@ -1,0 +1,24 @@
+# Environments
+.venv/
+venv/
+
+# Python / Jupyter caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Supplied datasets are never committed or submitted
+data/
+
+# Supplied course materials and the preserved original working notebook
+student/
+START_HERE.md
+
+# Submission packaging output
+Northstar_Connect_Submission/
+*.zip
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.log
